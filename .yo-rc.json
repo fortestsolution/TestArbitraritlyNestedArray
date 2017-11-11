@@ -1,0 +1,31 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Pluto Solutions",
+        "email": "pluto.solutioons@outlook.com"
+      },
+      "libraryName": {
+        "original": "pluto-solutions-angularjs-bootstap1",
+        "camelized": "plutoSolutionsAngularjsBootstap1",
+        "dasherized": "pluto-solutions-angularjs-bootstap1",
+        "slugified": "pluto-solutions-angularjs-bootstap1",
+        "parts": [
+          "pluto",
+          "solutions",
+          "angularjs",
+          "bootstap1"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": true,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": true,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/pluto-solutions-angularjs-bootstap1",
+      "libraryUnitTestDirectory": "test/unit/pluto-solutions-angularjs-bootstap1",
+      "libraryUnitE2eDirectory": "test/e2e/pluto-solutions-angularjs-bootstap1"
+    }
+  }
+}
